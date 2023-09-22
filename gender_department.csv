@@ -1,0 +1,39 @@
+department,gender,count_in_group,gender_percentage
+Accounting,Female,695,0.4640
+Accounting,Male,767,0.5120
+Accounting,Non-Conforming,36,0.0240
+Auditing,Female,13,0.4643
+Auditing,Male,15,0.5357
+"Business Development",Female,324,0.4475
+"Business Development",Male,377,0.5207
+"Business Development",Non-Conforming,23,0.0318
+Engineering,Female,1399,0.4613
+Engineering,Male,1548,0.5104
+Engineering,Non-Conforming,86,0.0284
+"Human Resources",Female,404,0.4703
+"Human Resources",Male,431,0.5017
+"Human Resources",Non-Conforming,24,0.0279
+Legal,Female,64,0.4923
+Legal,Male,61,0.4692
+Legal,Non-Conforming,5,0.0385
+Marketing,Female,92,0.4259
+Marketing,Male,121,0.5602
+Marketing,Non-Conforming,3,0.0139
+"Product Management",Female,119,0.4075
+"Product Management",Male,166,0.5685
+"Product Management",Non-Conforming,7,0.0240
+"Research and Development",Female,224,0.4647
+"Research and Development",Male,245,0.5083
+"Research and Development",Non-Conforming,13,0.0270
+Sales,Female,356,0.4363
+Sales,Male,439,0.5380
+Sales,Non-Conforming,21,0.0257
+Services,Female,355,0.4702
+Services,Male,382,0.5060
+Services,Non-Conforming,18,0.0238
+Support,Female,205,0.4702
+Support,Male,216,0.4954
+Support,Non-Conforming,15,0.0344
+Training,Female,347,0.4501
+Training,Male,405,0.5253
+Training,Non-Conforming,19,0.0246
